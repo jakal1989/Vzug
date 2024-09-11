@@ -27,7 +27,8 @@
    <config directory>/custom_components/vzug/
 where <config directory> is the directory where your configuration.yaml file is located. 3. Restart Home Assistant.
 
-Configuration
+## Configuration
+
 In Home Assistant, go to Settings > Devices & Services.
 Click on Add Integration and search for "V-ZUG".
 Follow the instructions to configure the IP addresses of your V-ZUG devices (dishwasher and/or oven).
@@ -38,25 +39,27 @@ Oven IP Address	The IP address of your V-ZUG oven.
 Sensors Provided
 The integration provides the following sensors for each appliance:
 
-Device Name
-Serial Number
-Inactive State
-Program
-Status
-Program End Time
-End Time
-End Type
-Device UUID
+- Device Name
+- Serial Number
+- Inactive State
+- Program
+- Status
+- Program End Time
+- End Time
+- End Type
+- Device UUID
+  
 Example Use Case
 You can use these sensors in your automations or dashboards to monitor the status of your V-ZUG appliances.
 
-Troubleshooting
+## Troubleshooting
+
 Make sure that the IP addresses of your devices are correct and that they are reachable on your network.
 Check the Home Assistant logs for any errors related to the V-ZUG integration.
 Feedback and Contributions
 If you find any issues or have suggestions for improvement, please open an issue or submit a pull request on the GitHub repository.
 
-License
+## License
 This project is licensed under the MIT License.
 
 ### Erläuterung des Inhalts:
