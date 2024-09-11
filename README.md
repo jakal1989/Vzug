@@ -69,5 +69,3 @@ This project is licensed under the MIT License.
 - **Troubleshooting:** Tipps zur Fehlerbehebung.
 - **Feedback und Contributions:** Link zum GitHub-Repository für Rückmeldungen und Beiträge.
 - **Lizenz:** Informationen zur Lizenzierung des Projekts.
-
-Kopiere einfach den obigen Text in eine Datei mit dem Namen `README.md` und füge sie deinem GitHub-Repository hinzu.
