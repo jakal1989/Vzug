@@ -15,7 +15,7 @@
 1. Ensure you have [HACS](https://hacs.xyz) installed in your Home Assistant instance.
 2. Go to **HACS** > **Integrations**.
 3. Click on the three dots menu in the top right corner and select **Custom Repositories**.
-4. Add the following repository URL: `https://github.com/jakal1989/Home_assistant` and select **Integration**.
+4. Add the following repository URL: `https://github.com/jakal1989/Vzug` and select **Integration**.
 5. Click **Add**.
 6. Find "V-ZUG Integration" in the HACS integrations list and click **Install**.
 
