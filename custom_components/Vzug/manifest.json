@@ -1,7 +1,7 @@
 {
     "domain": "Vzug",
     "name": "V-ZUG Integration",
-    "version": "1.0.0",
+    "version": "0.5",
     "documentation": "https://github.com/jakal1989/Vzug",
     "requirements": [],
     "dependencies": [],
