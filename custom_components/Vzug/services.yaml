@@ -1,0 +1,10 @@
+"""Service definitions for the integration."""
+set_program:
+  description: "Set program (POST) to a device (only supported for some ovens)."
+  fields:
+    ip:
+      description: "Device IP address to target."
+      example: "192.168.1.175"
+    value:
+      description: "Raw JSON value for the setProgram call (string)."
+      example: '{"status":"idle"}'

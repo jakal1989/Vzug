@@ -1,0 +1,11 @@
+{
+  "domain": "vzug",
+  "name": "V-ZUG (local)",
+  "version": "0.1.0",
+  "documentation": "https://github.com/jakal1989/Vzug",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": [],
+  "config_flow": true,
+  "iot_class": "local_polling"
+}
